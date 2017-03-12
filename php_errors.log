@@ -1,0 +1,3 @@
+[24-Dec-2015 07:39:07 UTC] PHP Fatal error:  Call to undefined function get_option() in /home/ubuntu/workspace/wp-content/themes/citytours/templates/content-blog.php on line 6
+[24-Dec-2015 07:39:07 UTC] PHP Stack trace:
+[24-Dec-2015 07:39:07 UTC] PHP   1. {main}() /home/ubuntu/workspace/wp-content/themes/citytours/templates/content-blog.php:0
